@@ -13,7 +13,7 @@ int matProductResult[MAX][MAX];
 
 
 
-.
+
 typedef void*(*Operations)(void*);
 
 void fillMatrix(int matrix[MAX][MAX]) {
